@@ -6,5 +6,5 @@ import react from "@vitejs/plugin-react";
 // base: "/myrella-15-anos/"
 export default defineConfig({
   plugins: [react()],
-  base: "/NOME-DO-REPOSITORIO/",
+  base: "/Myrella_Convite_15anos/",
 });
